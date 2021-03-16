@@ -31,8 +31,6 @@
     <category term="一些教程" scheme="https://blog.imsyy.top/categories/%E4%B8%80%E4%BA%9B%E6%95%99%E7%A8%8B/"/>
     
     
-    <category term="教程" scheme="https://blog.imsyy.top/tags/%E6%95%99%E7%A8%8B/"/>
-    
     <category term="网盘" scheme="https://blog.imsyy.top/tags/%E7%BD%91%E7%9B%98/"/>
     
     <category term="OneDrive" scheme="https://blog.imsyy.top/tags/OneDrive/"/>
@@ -42,6 +40,8 @@
     <category term="Cloudflare" scheme="https://blog.imsyy.top/tags/Cloudflare/"/>
     
     <category term="Heroku" scheme="https://blog.imsyy.top/tags/Heroku/"/>
+    
+    <category term="教程" scheme="https://blog.imsyy.top/tags/%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
@@ -232,9 +232,9 @@
     <category term="一些教程" scheme="https://blog.imsyy.top/categories/%E4%B8%80%E4%BA%9B%E6%95%99%E7%A8%8B/"/>
     
     
-    <category term="layer" scheme="https://blog.imsyy.top/tags/layer/"/>
-    
     <category term="教程" scheme="https://blog.imsyy.top/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="layer" scheme="https://blog.imsyy.top/tags/layer/"/>
     
   </entry>
   
